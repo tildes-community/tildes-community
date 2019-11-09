@@ -12,7 +12,7 @@
 
 | Name | Description |
 |------|-------------|
-| [Tildes ReExtended](https://gitlab.com/tildes-community/tildes-reextended) | An updated and reimagined fork of [Crius' original Tildes Extended](https://github.com/theCrius/tildes-extended) web extension. |
+| [Tildes ReExtended](https://gitlab.com/tildes-community/tildes-reextended) | An updated and reimagined recreation of [Crius' original Tildes Extended](https://github.com/theCrius/tildes-extended) web extension. |
 
 <div align="center">
   <img alt="Tildes Community Logo" src="assets/tildes-community-logo.png" width="128px" height="128px">
