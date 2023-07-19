@@ -1,0 +1,29 @@
+{
+  "private": "true",
+  "dependencies": {
+    "@astrojs/mdx": "^0.19.7",
+    "@astrojs/preact": "^2.2.1",
+    "@bauke/eslint-config": "^0.1.4",
+    "@bauke/prettier-config": "^0.1.4",
+    "@bauke/stylelint-config": "^0.1.4",
+    "@types/node": "^20.4.2",
+    "astro": "^2.8.3",
+    "modern-normalize": "^2.0.0",
+    "netlify-cli": "^15.9.0",
+    "preact": "^10.16.0",
+    "sass": "^1.63.6",
+    "stylelint": "^15.10.1",
+    "trash-cli": "^5.0.0",
+    "typescript": "^5.1.6",
+    "xo": "^0.55.0"
+  },
+  "prettier": "@bauke/prettier-config",
+  "stylelint": {
+    "extends": "@bauke/stylelint-config"
+  },
+  "xo": {
+    "extends": "@bauke/eslint-config",
+    "prettier": true,
+    "space": true
+  }
+}
