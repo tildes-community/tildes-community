@@ -16,5 +16,5 @@
 | [Tildes Shepherd](https://gitlab.com/tildes-community/tildes-shepherd) | A WebExtension providing interactive guided tours of Tildes. |
 
 <div align="center">
-  <img alt="Tildes Community Logo" src="assets/tildes-community-logo.png" width="128px" height="128px">
+  <img alt="Tildes Community Logo" src="assets/tildes-community.png" width="128px" height="128px">
 </div>
