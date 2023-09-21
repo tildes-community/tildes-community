@@ -1,6 +1,6 @@
 # Tildes Community
 
-> Various unofficial projects created by and for the community of [Tildes.net](https://tildes.net).
+> **Various unofficial projects created by and for the community of [Tildes.net](https://tildes.net).**
 
 <!-- ## About -->
 <!-- TODO: Write the About section. -->
@@ -12,9 +12,9 @@
 
 | Name | Description |
 |------|-------------|
-| [Tildes ReExtended](https://gitlab.com/tildes-community/tildes-reextended) | An updated and reimagined recreation of [Crius' original Tildes Extended](https://github.com/theCrius/tildes-extended) web extension. |
+| [Tildes ReExtended](https://gitlab.com/tildes-community/tildes-reextended) | The principal enhancement suite for Tildes. |
 | [Tildes Shepherd](https://gitlab.com/tildes-community/tildes-shepherd) | A WebExtension providing interactive guided tours of Tildes. |
 
 <div align="center">
-  <img alt="Tildes Community Logo" src="assets/tildes-community.png" width="128px" height="128px">
+  <img alt="Tildes Community Logo" src="source/assets/tildes-community.png" width="128px" height="128px">
 </div>
