@@ -1,0 +1,18 @@
+@use "modern-normalize/modern-normalize.css";
+@use "reset";
+@use "colors";
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  --spacing-small: 4px;
+  --spacing-medium: 8px;
+  --spacing-large: 16px;
+  --spacing-extra-large: 32px;
+
+  background-color: var(--background-primary);
+  color: var(--foreground);
+  font-size: 1.6rem;
+}
