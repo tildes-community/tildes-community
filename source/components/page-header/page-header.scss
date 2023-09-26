@@ -1,0 +1,45 @@
+.page-header {
+  --font-size: 3rem;
+
+  &.full-page {
+    --font-size: 5rem;
+
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    justify-content: center;
+    width: 100vw;
+
+    h1 {
+      align-items: center;
+      border-bottom: 2px solid var(--foreground);
+      display: flex;
+      justify-content: center;
+      padding: var(--spacing-large);
+      width: 75vw;
+    }
+
+    .subtitle {
+      border-left: unset;
+      margin-top: var(--spacing-large);
+    }
+  }
+
+  h1 {
+    align-items: center;
+    display: flex;
+    font-size: var(--font-size);
+  }
+
+  .logo {
+    aspect-ratio: 1;
+    margin-right: var(--spacing-medium);
+    width: var(--font-size);
+  }
+
+  .subtitle {
+    border-left: 2px solid var(--foreground);
+    margin-top: var(--spacing-medium);
+  }
+}
