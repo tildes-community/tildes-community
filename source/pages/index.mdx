@@ -1,0 +1,14 @@
+---
+layout: "../layouts/base.astro"
+pageTitle: "Tildes Community"
+---
+
+import {PageHeader} from "../components/exports.js";
+
+<PageHeader
+  fullPage={true}
+  logoAlt="The Tildes Community logo."
+  logoSrc="/tildes-community.svg"
+  subtitle="Unofficial Tildes projects maintained by and for the community."
+  title={frontmatter.pageTitle}
+/>
