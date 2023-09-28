@@ -1,9 +1,16 @@
 ---
 import "../scss/common.scss";
 
+/** Properties for the base layout. */
 interface Props {
+  /** MDX frontmatter. */
   frontmatter: {
+    /**
+     * Path to an image to use as the favicon, defaults to the Tildes Community
+     * logo.
+     */
     favicon?: string;
+    /** The text to use for the `<title>` element. */
     pageTitle: string;
   };
 }
