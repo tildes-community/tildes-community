@@ -1,3 +1,4 @@
+.direnv/
 .netlify/
 .vscode/
 node_modules/
