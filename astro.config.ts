@@ -1,5 +1,4 @@
 import path from "node:path";
-// eslint-disable-next-line n/file-extension-in-import
 import {defineConfig} from "astro/config";
 import mdxIntegration from "@astrojs/mdx";
 import preactIntegration from "@astrojs/preact";
